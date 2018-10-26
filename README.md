@@ -1,5 +1,5 @@
 # Government-Github-Links
-Links to Other NC Jurisdictions Github Pages
+Links to Other NC Government Githubs
 
 City of Asheville - https://github.com/cityofasheville
 
